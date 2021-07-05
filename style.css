@@ -2,8 +2,9 @@ body{
     margin:0;
     background-color: #ddd;
 }
-section{
+.ami{
     display:flex;
+    margin-bottom:150px;
 }
 .one{
     width:50%;
@@ -17,7 +18,7 @@ section{
     border:5px solid yellow;
     border-radius:50%;
 }
-h2{
+.five{
     text-align:center;
     margin:0px
 }
@@ -52,4 +53,15 @@ ul li a{
 }
 .two{
     padding-top:200px;
+}
+.five{
+
+}
+.six{
+    display:flex;
+}
+.seven{
+    width:25%;
+    box-shadow: 10px 10px 15px brown;
+    text-align: center;
 }
