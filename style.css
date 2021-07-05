@@ -47,7 +47,11 @@ ul li a{
 .four{
     color:yellow
 }
-.one h4, h1, p{
+.one h4, h1{
+    padding-left:100px;
+    padding-right:30px;
+}
+.tumi{
     padding-left:100px;
     padding-right:30px;
 }
@@ -60,8 +64,15 @@ ul li a{
 .six{
     display:flex;
 }
+.tui{
+    text-align:center;
+    font-size: 30px;
+}
 .seven{
     width:25%;
     box-shadow: 10px 10px 15px brown;
-    text-align: center;
+    padding-left:20px;
+    padding-right:10px;
+    text-align:justify;
+    margin:0 20px;
 }
